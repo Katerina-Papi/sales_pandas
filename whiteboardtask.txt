@@ -1,0 +1,22 @@
+My 4 Questions:
+1. What is the expected schedule for data updates?
+2. What are the key metrics and KPIs that the sales team are most interested in tracking?
+3. How should we manage historical data?
+Are there any anticipated data changes in the structure of the dataset? 
+
+Tables Names:
+1. Customers
+2. Sales
+3. Products
+4. Geography
+
+Largest % change in year-on-year profit:
+State: Yveline
+Year: 2016
+% Change: 49.34
+
+Data Quality Issues:
+1. Missing values in 'State' column
+2. 24 duplicated rows
+3. Inconsistent data types e.g. 'Order_Quantity'
+4. Invalid dates & inconsistent format e.g. '2014-02-30' & '31/12/9999'
